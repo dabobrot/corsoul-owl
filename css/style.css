@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+.fbox{
+    height: 340px;
+    width: 500px;
+}
+.ff1{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.gg1{
+    background:linear-gradient(to left,#F6E3C5,#A0D995,#6CC4A1,#4CACBC
+    );
+    color: #3C2C3E;
+    font-size: 20px;
+    padding:15px;
+    border-radius: 10px;
+}
+.gg2{
+    background:linear-gradient(to top,#FFE699,#FFF9B6,#FF9292,#FFCCD2
+    );
+    color: #4E3620;
+    font-size: 20px;
+    padding:15px;
+    border-radius: 10px;
+}
